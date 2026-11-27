@@ -1,0 +1,6 @@
+{
+  "name": "مِعيار | ME'YAR",
+  "description": "منصة تعليمية للمدرسين لإدارة الطلاب والواجبات والامتحانات وتصحيح الإجابات وتحليل النتائج.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
